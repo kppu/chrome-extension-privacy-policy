@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Sep 2022 13:32:11 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Sep 2022 16:49:55 GMT</lastBuildDate><item><title><![CDATA[Chrome Extension Privacy Policy]]></title><description><![CDATA[Chrome 拡張のプライバシーポリシー 本プライバシーポリシーは、kitakaze pupupu（以下、「当開発者」）が開発した Google Chrome の拡張機能(Extension…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-second-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-second-post/</guid><content:encoded>&lt;h2&gt;Chrome 拡張のプライバシーポリシー&lt;/h2&gt;
+&lt;p&gt;本プライバシーポリシーは、kitakaze pupupu（以下、「当開発者」）が開発した Google Chrome の拡張機能(Extension)(以下、「拡張機能」とします。)の利用において、利用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当開発者が遵守する方針を示したものです。&lt;/p&gt;
+&lt;h3&gt;基本方針&lt;/h3&gt;
+&lt;p&gt;当開発者は、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、拡張機能で取扱う個人情報の取得、利用、管理を適正に行います。&lt;/p&gt;
+&lt;h3&gt;適用範囲&lt;/h3&gt;
+&lt;p&gt;本プライバシーポリシーは、当開発者が開発した拡張機能においてのみ適用されます。&lt;/p&gt;
+&lt;h3&gt;個人情報の取得と利用目的&lt;/h3&gt;
+&lt;p&gt;当開発者は、個人情報を収集する機能を要した拡張機能を公開しません。
+&lt;strong&gt;&lt;em&gt;ただし、一部個人情報を利用者のブラウザの LocalStorage に保存します。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;取得方法&lt;/h4&gt;
+&lt;p&gt;拡張機能内に、個人情報の入力フォームを表示します。
+フォームに入力された内容は、ブラウザ内の LocalStorage に保存されます。&lt;/p&gt;
+&lt;h4&gt;利用目的&lt;/h4&gt;
+&lt;h5&gt;利便性の向上&lt;/h5&gt;
+&lt;p&gt;拡張機能では、機能の内容により、下記の情報を
+&lt;strong&gt;&lt;em&gt;「ブラウザの LocalStorage」へ保存します&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;拡張機能で用いるログイン ID&lt;/li&gt;
+&lt;li&gt;拡張機能で用いるログインパスワード&lt;/li&gt;
+&lt;li&gt;その他拡張機能上に入力されたテキスト内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;これにより、拡張機能の次回利用時などにログイン情報が自動的に入力されるため手間を省くことが可能になり、利便性が向上します。
+&lt;strong&gt;&lt;em&gt;個人情報は当開発者に送信されず拡張機能利用者のブラウザの LocalStorage に保存されます&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;保存期間について&lt;/h5&gt;
+&lt;p&gt;拡張機能内でデータの扱いとして、LocalStorage を使用します。
+LocalStorage には保存期間が存在しないためデータの保存期間は拡張機能のアンインストール時までとします。&lt;/p&gt;
+&lt;h4&gt;個人情報の取り扱いの同意について&lt;/h4&gt;
+&lt;p&gt;当開発者が開発を行った拡張機能では、拡張機能のインストールを行う前に、当プライバシーポリシーをご一読頂くようにお願いします。
+インストールをされた時点で、当プライバシーポリシーに同意されたとみなします。&lt;/p&gt;
+&lt;h4&gt;Cookie による個人情報の取得&lt;/h4&gt;
+&lt;p&gt;拡張機能では、Cookie を利用することがあります。
+Cookie（クッキー）とは、ウェブサイトを利用したときに、ブラウザとサーバーとの間で送受信した利用履歴や入力内容などを、訪問者のコンピュータにファイルとして保存しておく仕組みです。&lt;/p&gt;
+&lt;h5&gt;利用目的について&lt;/h5&gt;
+&lt;p&gt;拡張機能の利用者の利便性を向上するために活用します。
+ログイン処理や画面遷移を拡張機能から行う際に、Cookie を活用することでユーザーの手間を省いてデータの処理が可能となります。
+なお、拡張機能ではプライバシー保護のため、拡張機能の目的とする情報以外の Cookie を送信しません。&lt;/p&gt;
+&lt;h5&gt;保存期間について&lt;/h5&gt;
+&lt;p&gt;Cookie の保存期間は利用者のブラウザーにて設定されているデフォルトの期間保存されます。&lt;/p&gt;
+&lt;h3&gt;個人情報の管理&lt;/h3&gt;
+&lt;p&gt;当開発者は、拡張機能内における個人情報の管理について、以下を徹底します。&lt;/p&gt;
+&lt;h4&gt;情報の正確性の確保&lt;/h4&gt;
+&lt;p&gt;利用者が入力したデータにおいて、常に正しい情報を保持します。&lt;/p&gt;
+&lt;h4&gt;安全管理措置&lt;/h4&gt;
+&lt;p&gt;拡張機能において、情報の漏洩、滅失を防止するために拡張機能内において利用目的外のサーバーへの情報送信を行いません。&lt;/p&gt;
+&lt;h4&gt;個人情報の第三者への提供について&lt;/h4&gt;
+&lt;p&gt;当開発者の開発する拡張機能は、利用者から提供いただいた個人情報を、訪問者本人の同意を得ることなく第三者に提供することはありません。
+また、今後第三者提供を行うことになった場合には、提供する情報と提供目的などを提示し、訪問者から同意を得た場合のみ第三者提供を行います。&lt;/p&gt;
+&lt;h4&gt;問い合わせ先&lt;/h4&gt;
+&lt;p&gt;拡張機能、又は個人情報の取扱いに関しては、下記のメールアドレスにてお問い合わせください。&lt;/p&gt;
+&lt;p&gt;開発者：kitakaze pupupu&lt;br&gt;
+メールアドレス：&lt;a href=&quot;mailto:k1takaz3.pupupu@gmail.com&quot;&gt;k1takaz3.pupupu@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;策定日&lt;/h2&gt;
+&lt;p&gt;令和 4 年 9 月 21 日　策定&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
@@ -90,13 +142,7 @@ would be the word “and” and the Little Blind Text should turn around and ret
 to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/my-second-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
