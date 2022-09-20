@@ -2,6 +2,7 @@
 title: "Chrome Extension Privacy Policy"
 developper: "kitakaze pupupu"
 description: "This is a privacy policy which declares how a developer gathers information of users of chrome extensions this developper creates, and how they uses it for what."
+date: 2022-09-21
 ---
 
 ## Chrome 拡張のプライバシーポリシー
