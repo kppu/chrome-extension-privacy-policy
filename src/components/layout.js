@@ -1,5 +1,4 @@
 import * as React from "react"
-import { Link } from "gatsby"
 
 const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -13,7 +12,7 @@ const Layout = ({ location, children }) => {
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
         {` `}
-        hosted on{" "}
+        hosted on{` `}
         <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages">
           Github Pages
         </a>
