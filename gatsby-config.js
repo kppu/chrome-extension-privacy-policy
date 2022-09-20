@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `chrome-extension-privacy-policy`,
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Chrome Extension Privacy policy`,
     author: {
       name: `Kyle Mathews`,
       summary: `who lives and works in San Francisco building useful things.`,
