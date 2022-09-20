@@ -3,13 +3,13 @@ module.exports = {
   siteMetadata: {
     title: `Chrome Extension Privacy policy`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `kitakaze pupupu`,
+      summary: `just a normal person building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Privacy policy decalaring how to handle the information around chrome extension they makes.`,
+    siteUrl: `https://kppu.github.io/chrome-extension-privacy-policy/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: ``,
     },
   },
   plugins: [
